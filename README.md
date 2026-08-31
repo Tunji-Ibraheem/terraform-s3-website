@@ -8,8 +8,6 @@ A production-ready infrastructure project that provisions a static website on AW
 
  <img width="1366" height="768" alt="Screenshot " src="https://github.com/user-attachments/assets/1a009975-96b8-4d00-84a2-b7aede1a2b52" />
 
-![Website Screenshot](screenshot.png)
-
 Architecture
 Git Push 
    ↓
