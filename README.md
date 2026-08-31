@@ -1,8 +1,8 @@
 # Terraform S3 Static Website Hosting
 
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform)
-[AWS](https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazonaws)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
 
 A production-ready infrastructure project that provisions a static website on AWS S3 using Terraform and deploys updates automatically with GitHub Actions CI/CD.
 ## 📸 Project Screenshot
