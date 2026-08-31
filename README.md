@@ -51,7 +51,7 @@ terraform-s3-website/
 
 How to Deploy
 
-### 1. Prerequisites
+Prerequisites
 ```bash
 - AWS Account with programmatic access
 - Terraform >= 1.5.0
