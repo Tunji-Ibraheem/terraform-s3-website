@@ -38,5 +38,3 @@ Initialize Terraform
     Plan and Apply
         terraform plan -var="bucket_name=tunji-s3-learning-bucket-2026-dev-env"
     terraform apply -var="bucket_name=tunji-s3-learning-bucket-2026-dev-env"
-
-<img width="1366" height="768" alt="Screenshot " src="https://github.com/user-attachments/assets/402c9920-ccb8-40f7-baba-31473edc4717" />
