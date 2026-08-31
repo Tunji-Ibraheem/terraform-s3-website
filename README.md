@@ -9,8 +9,8 @@ A production-ready infrastructure project that provisions a static website on AW
 
  <img width="1366" height="768" alt="Screenshot " src="https://github.com/user-attachments/assets/1a009975-96b8-4d00-84a2-b7aede1a2b52" />
 
+Architecture:
 
-Architecture
 Git Push 
    ↓
 GitHub Actions CI/CD
@@ -21,19 +21,20 @@ AWS S3 + Static Website Hosting
    ↓
 Public Website
 
-What I Built
+What I Built:
 - **Infrastructure as Code**: 100% of AWS resources provisioned with Terraform
 - **Modular Design**: Reusable Terraform modules for clean, scalable code
 - **CI/CD Pipeline**: Automatic deployment on `git push` to main branch
 - **Static Website**: Hosted on S3 with public access and custom `index.html`
 
-Tech Stack
+Tech Stack:
 - **Cloud**: AWS S3
 - **IaC**: Terraform 
 - **CI/CD**: GitHub Actions
 - **Language**: HCL, HTML, CSS
 
-Project Structure
+Project Structure:
+
 terraform-s3-website/
 ├── modules/
 │   └── s3-website/          # Reusable S3 module
@@ -47,7 +48,7 @@ terraform-s3-website/
 └── README.md
 
 
-How to Deploy
+How to Deploy:
 
 Prerequisites
 ```bash
